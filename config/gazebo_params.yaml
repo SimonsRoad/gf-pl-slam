@@ -1,0 +1,17 @@
+cam0:
+  Kl: [554.25626, 554.25626, 320, 240]
+  Kr: [554.25626, 554.25626, 320, 240]
+  Dl: [0, 0, 0, 0]
+  Dr: [0, 0, 0, 0]
+  Rl: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+  Rr: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+  cam_bl: 0.1
+  cam_height: 480
+  cam_model: Pinhole
+  cam_width: 640
+  R: [  1,   0,   0, 
+  0,   1,   0,
+  0,  0,   1 ]
+  t: [ -0.1,  0, 0 ]
+images_subfolder_l: cam0/data/
+images_subfolder_r: cam1/data/
